@@ -3,7 +3,7 @@ This repository contains the description and matlab code for implementing Method
 The description is in the word file: Method M2-1-1 Description.docx.
 The matlab code is in the zip file: OOK_gen.zip
 
-Copyright (c) 2012-2026 Scott Chacon and others
+Copyright (c) 2025-2026 Zhengxiang Ma
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
